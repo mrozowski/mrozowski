@@ -13,7 +13,7 @@ I'm a passionate software developer specializing in backend development and mode
   To add more badges, visit: https://shields.io/ or https://github.com/Ileriayo/markdown-badges
   Format: ![Badge Name](https://img.shields.io/badge/LABEL-%23HEXCOLOR.svg?style=for-the-badge&logo=LOGO&logoColor=white)
   Example: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  Note: Replace HEXCOLOR with the color code (e.g., ED8B00), LOGO with the logo name from simpleicons.org
+  Note: %23 represents # in URLs. For color #ED8B00, use %23ED8B00. Find logo names at simpleicons.org
 -->
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -69,7 +69,6 @@ I'm a passionate software developer specializing in backend development and mode
 <!-- Update with your contact information -->
 
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 ---
 
