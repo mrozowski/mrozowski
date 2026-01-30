@@ -11,8 +11,9 @@ I'm a passionate software developer specializing in backend development and mode
 ### Languages & Frameworks
 <!-- 
   To add more badges, visit: https://shields.io/ or https://github.com/Ileriayo/markdown-badges
-  Format: ![Badge Name](https://img.shields.io/badge/LABEL-COLOR?style=for-the-badge&logo=LOGO&logoColor=white)
+  Format: ![Badge Name](https://img.shields.io/badge/LABEL-%23HEXCOLOR.svg?style=for-the-badge&logo=LOGO&logoColor=white)
   Example: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  Note: Replace HEXCOLOR with the color code (e.g., ED8B00), LOGO with the logo name from simpleicons.org
 -->
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
